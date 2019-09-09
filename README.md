@@ -1,7 +1,8 @@
-# whatwedo
+# What Should We Do With Our Lives
 
-asd
+## Getting Started
 
-INCEPTION DOGFOOD SHIT
-
-- first post is whatwedoasdasd link first
+```
+npm i
+npm run dev
+```
