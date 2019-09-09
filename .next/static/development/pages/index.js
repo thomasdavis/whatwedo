@@ -9885,86 +9885,31 @@ function Home() {
       lineNumber: 88
     },
     __self: this
-  }, "jsonresume.org"), __jsx(ListingBody, {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 89
-    },
-    __self: this
-  }, __jsx("br", {
+  }, "whatshouldwedowith.com")), __jsx(Listing, {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 90
     },
     __self: this
-  }), __jsx("textarea", {
+  }, __jsx(ListingUrl, {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 91
     },
     __self: this
-  }, "asdasd"), __jsx("br", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 92
-    },
-    __self: this
-  }), __jsx(Input, {
-    value: "Email",
+  }, "jsonresume.org")), __jsx(Listing, {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 93
     },
     __self: this
-  }), __jsx("br", {
+  }, __jsx(ListingUrl, {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 94
     },
     __self: this
-  }), __jsx("strong", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 95
-    },
-    __self: this
-  }, "Feedback"), __jsx("p", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 96
-    },
-    __self: this
-  }, "Hi, you suck everything sucks"), __jsx("p", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 97
-    },
-    __self: this
-  }, "Hi, you suck everything sucks"), __jsx("p", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 98
-    },
-    __self: this
-  }, "Hi, you suck everything sucks"), __jsx("p", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 99
-    },
-    __self: this
-  }, "Hi, you suck everything sucks"))), __jsx(Listing, {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 102
-    },
-    __self: this
-  }, __jsx(ListingUrl, {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 103
-    },
-    __self: this
-  }, "dronsusckS.org"))));
+  }, "blockbid.io"))));
 }
 
 /* harmony default export */ __webpack_exports__["default"] = (Home);

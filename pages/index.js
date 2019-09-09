@@ -85,22 +85,13 @@ function Home() {
         </SignupForm>
         <SubTitle>Projects</SubTitle>
         <Listing>
-          <ListingUrl>jsonresume.org</ListingUrl>
-          <ListingBody>
-            <br />
-            <textarea>asdasd</textarea>
-            <br />
-            <Input value="Email" />
-            <br />
-            <strong>Feedback</strong>
-            <p>Hi, you suck everything sucks</p>
-            <p>Hi, you suck everything sucks</p>
-            <p>Hi, you suck everything sucks</p>
-            <p>Hi, you suck everything sucks</p>
-          </ListingBody>
+          <ListingUrl>whatshouldwedowith.com</ListingUrl>
         </Listing>
         <Listing>
-          <ListingUrl>dronsusckS.org</ListingUrl>
+          <ListingUrl>jsonresume.org</ListingUrl>
+        </Listing>
+        <Listing>
+          <ListingUrl>blockbid.io</ListingUrl>
         </Listing>
       </PageContent>
     </PageContainer>
