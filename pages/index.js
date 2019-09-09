@@ -14,7 +14,7 @@ const TopBar = styled.div`
   top: 0;
   left: 0;
   line-height: 50px;
-  background: #000;
+  background: #d93025;
   color: #fff;
   padding: 0 20px;
 `;
@@ -75,12 +75,12 @@ const ListingBody = styled.div`
 function Home() {
   return (
     <PageContainer>
-      <TopBar>Why Would You Kill Youself</TopBar>
+      <TopBar>What Would You Do With — Get quick feedback and ideas for your project!</TopBar>
       <PageContent>
         <SignupForm>
-          <Input value="URL" />
-          <Input value="Note" />
-          <Input value="Email" />
+          <Input value="URL of your project" />
+          <Input value="Comment (optional)" />
+          <Input value="Email (private and used to notify you of feedback)" />
           <SubmitButton>Submit</SubmitButton>
         </SignupForm>
         <SubTitle>Listings</SubTitle>

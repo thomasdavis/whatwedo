@@ -93,10 +93,10 @@ module.exports =
 /************************************************************************/
 /******/ ({
 
-/***/ "./node_modules/@babel/runtime-corejs2/core-js/object/assign.js":
-/*!**********************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs2/core-js/object/assign.js ***!
-  \**********************************************************************/
+/***/ "./node_modules/@babel/runtime-corejs2/core-js/object/assign.js?64f7":
+/*!**************************************************************************************************************!*\
+  !*** C:/Users/Donald/Documents/GitHub/whatwedo/node_modules/@babel/runtime-corejs2/core-js/object/assign.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -104,10 +104,10 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/assign */ "co
 
 /***/ }),
 
-/***/ "./node_modules/@babel/runtime-corejs2/core-js/object/define-property.js":
-/*!*******************************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs2/core-js/object/define-property.js ***!
-  \*******************************************************************************/
+/***/ "./node_modules/@babel/runtime-corejs2/core-js/object/define-property.js?2f3f":
+/*!***********************************************************************************************************************!*\
+  !*** C:/Users/Donald/Documents/GitHub/whatwedo/node_modules/@babel/runtime-corejs2/core-js/object/define-property.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -115,10 +115,10 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/define-proper
 
 /***/ }),
 
-/***/ "./node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js":
-/*!*******************************************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js ***!
-  \*******************************************************************************************/
+/***/ "./node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js?bfc9":
+/*!***********************************************************************************************************************************!*\
+  !*** C:/Users/Donald/Documents/GitHub/whatwedo/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js ***!
+  \***********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -127,9 +127,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/get-own-prope
 /***/ }),
 
 /***/ "./node_modules/@babel/runtime-corejs2/core-js/promise.js":
-/*!****************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs2/core-js/promise.js ***!
-  \****************************************************************/
+/*!********************************************************************************************************!*\
+  !*** C:/Users/Donald/Documents/GitHub/whatwedo/node_modules/@babel/runtime-corejs2/core-js/promise.js ***!
+  \********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -138,9 +138,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/promise */ "core-js/
 /***/ }),
 
 /***/ "./node_modules/@babel/runtime-corejs2/helpers/asyncToGenerator.js":
-/*!*************************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs2/helpers/asyncToGenerator.js ***!
-  \*************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** C:/Users/Donald/Documents/GitHub/whatwedo/node_modules/@babel/runtime-corejs2/helpers/asyncToGenerator.js ***!
+  \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -187,13 +187,13 @@ module.exports = _asyncToGenerator;
 /***/ }),
 
 /***/ "./node_modules/@babel/runtime-corejs2/helpers/extends.js":
-/*!****************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs2/helpers/extends.js ***!
-  \****************************************************************/
+/*!********************************************************************************************************!*\
+  !*** C:/Users/Donald/Documents/GitHub/whatwedo/node_modules/@babel/runtime-corejs2/helpers/extends.js ***!
+  \********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-var _Object$assign = __webpack_require__(/*! ../core-js/object/assign */ "./node_modules/@babel/runtime-corejs2/core-js/object/assign.js");
+var _Object$assign = __webpack_require__(/*! ../core-js/object/assign */ "./node_modules/@babel/runtime-corejs2/core-js/object/assign.js?64f7");
 
 function _extends() {
   module.exports = _extends = _Object$assign || function (target) {
@@ -218,9 +218,9 @@ module.exports = _extends;
 /***/ }),
 
 /***/ "./node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js":
-/*!******************************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js ***!
-  \******************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** C:/Users/Donald/Documents/GitHub/whatwedo/node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -235,15 +235,15 @@ module.exports = _interopRequireDefault;
 /***/ }),
 
 /***/ "./node_modules/@babel/runtime-corejs2/helpers/interopRequireWildcard.js":
-/*!*******************************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs2/helpers/interopRequireWildcard.js ***!
-  \*******************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** C:/Users/Donald/Documents/GitHub/whatwedo/node_modules/@babel/runtime-corejs2/helpers/interopRequireWildcard.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-var _Object$getOwnPropertyDescriptor = __webpack_require__(/*! ../core-js/object/get-own-property-descriptor */ "./node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js");
+var _Object$getOwnPropertyDescriptor = __webpack_require__(/*! ../core-js/object/get-own-property-descriptor */ "./node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js?bfc9");
 
-var _Object$defineProperty = __webpack_require__(/*! ../core-js/object/define-property */ "./node_modules/@babel/runtime-corejs2/core-js/object/define-property.js");
+var _Object$defineProperty = __webpack_require__(/*! ../core-js/object/define-property */ "./node_modules/@babel/runtime-corejs2/core-js/object/define-property.js?2f3f");
 
 function _interopRequireWildcard(obj) {
   if (obj && obj.__esModule) {
@@ -275,9 +275,9 @@ module.exports = _interopRequireWildcard;
 /***/ }),
 
 /***/ "./node_modules/next/dist/client/router.js":
-/*!*************************************************!*\
-  !*** ./node_modules/next/dist/client/router.js ***!
-  \*************************************************/
+/*!*****************************************************************************************!*\
+  !*** C:/Users/Donald/Documents/GitHub/whatwedo/node_modules/next/dist/client/router.js ***!
+  \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -295,7 +295,7 @@ exports.createRouter = exports.withRouter = exports.default = void 0;
 
 var _extends2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime-corejs2/helpers/extends */ "./node_modules/@babel/runtime-corejs2/helpers/extends.js"));
 
-var _defineProperty = _interopRequireDefault(__webpack_require__(/*! @babel/runtime-corejs2/core-js/object/define-property */ "./node_modules/@babel/runtime-corejs2/core-js/object/define-property.js"));
+var _defineProperty = _interopRequireDefault(__webpack_require__(/*! @babel/runtime-corejs2/core-js/object/define-property */ "./node_modules/@babel/runtime-corejs2/core-js/object/define-property.js?2f3f"));
 
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 
@@ -441,9 +441,9 @@ function makePublicRouterInstance(router) {
 /***/ }),
 
 /***/ "./node_modules/next/dist/client/with-router.js":
-/*!******************************************************!*\
-  !*** ./node_modules/next/dist/client/with-router.js ***!
-  \******************************************************/
+/*!**********************************************************************************************!*\
+  !*** C:/Users/Donald/Documents/GitHub/whatwedo/node_modules/next/dist/client/with-router.js ***!
+  \**********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -494,9 +494,9 @@ function withRouter(ComposedComponent) {
 /***/ }),
 
 /***/ "./node_modules/next/dist/pages/_app.js":
-/*!**********************************************!*\
-  !*** ./node_modules/next/dist/pages/_app.js ***!
-  \**********************************************/
+/*!**************************************************************************************!*\
+  !*** C:/Users/Donald/Documents/GitHub/whatwedo/node_modules/next/dist/pages/_app.js ***!
+  \**************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 

@@ -94,9 +94,9 @@ module.exports =
 /******/ ({
 
 /***/ "./node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js":
-/*!******************************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js ***!
-  \******************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** C:/Users/Donald/Documents/GitHub/whatwedo/node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -111,9 +111,9 @@ module.exports = _interopRequireDefault;
 /***/ }),
 
 /***/ "./node_modules/next/dist/pages/_error.js":
-/*!************************************************!*\
-  !*** ./node_modules/next/dist/pages/_error.js ***!
-  \************************************************/
+/*!****************************************************************************************!*\
+  !*** C:/Users/Donald/Documents/GitHub/whatwedo/node_modules/next/dist/pages/_error.js ***!
+  \****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 

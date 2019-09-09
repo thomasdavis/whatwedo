@@ -108,7 +108,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var lodash_map__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! lodash/map */ "lodash/map");
 /* harmony import */ var lodash_map__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(lodash_map__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "/home/ajax/repos/personal/whatwedo/pages/index.js";
+var _jsxFileName = "C:\\Users\\Donald\\documents\\github\\whatwedo\\pages\\index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -126,7 +126,7 @@ const TopBar = styled_components__WEBPACK_IMPORTED_MODULE_1___default.a.div`
   top: 0;
   left: 0;
   line-height: 50px;
-  background: #000;
+  background: #d93025;
   color: #fff;
   padding: 0 20px;
 `;
@@ -193,7 +193,7 @@ function Home() {
       lineNumber: 78
     },
     __self: this
-  }, "Why Would You Kill Youself"), __jsx(PageContent, {
+  }, "What Would You Do With \u2014 Get quick feedback and ideas for your project!"), __jsx(PageContent, {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 79
@@ -206,21 +206,21 @@ function Home() {
     },
     __self: this
   }, __jsx(Input, {
-    value: "URL",
+    value: "URL of your project",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 81
     },
     __self: this
   }), __jsx(Input, {
-    value: "Note",
+    value: "Comment (optional)",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 82
     },
     __self: this
   }), __jsx(Input, {
-    value: "Email",
+    value: "Email (private and used to notify you of feedback)",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 83
@@ -343,7 +343,7 @@ function Home() {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/ajax/repos/personal/whatwedo/pages/index.js */"./pages/index.js");
+module.exports = __webpack_require__(/*! C:\Users\Donald\documents\github\whatwedo\pages\index.js */"./pages/index.js");
 
 
 /***/ }),
