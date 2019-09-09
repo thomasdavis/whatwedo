@@ -172,7 +172,7 @@ const ListingUrl = styled_components__WEBPACK_IMPORTED_MODULE_1___default.a.div`
   padding: 15px;
   border-bottom: 1px dashed #555;
   &:hover {
-    background: yellow;
+    background: #fce8e6;
   }
 `;
 const ListingBody = styled_components__WEBPACK_IMPORTED_MODULE_1___default.a.div`
@@ -238,7 +238,7 @@ function Home() {
       lineNumber: 86
     },
     __self: this
-  }, "Listings"), __jsx(Listing, {
+  }, "Projects"), __jsx(Listing, {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 87

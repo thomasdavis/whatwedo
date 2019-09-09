@@ -9713,7 +9713,7 @@ function _templateObject10() {
 }
 
 function _templateObject9() {
-  var data = Object(_babel_runtime_corejs2_helpers_esm_taggedTemplateLiteral__WEBPACK_IMPORTED_MODULE_0__["default"])(["\n  flex: 1 1;\n  font-weight: 400;\n  padding: 15px;\n  border-bottom: 1px dashed #555;\n  &:hover {\n    background: yellow;\n  }\n"]);
+  var data = Object(_babel_runtime_corejs2_helpers_esm_taggedTemplateLiteral__WEBPACK_IMPORTED_MODULE_0__["default"])(["\n  flex: 1 1;\n  font-weight: 400;\n  padding: 15px;\n  border-bottom: 1px dashed #555;\n  &:hover {\n    background: #fce8e6;\n  }\n"]);
 
   _templateObject9 = function _templateObject9() {
     return data;
@@ -9873,7 +9873,7 @@ function Home() {
       lineNumber: 86
     },
     __self: this
-  }, "Listings"), __jsx(Listing, {
+  }, "Projects"), __jsx(Listing, {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 87

@@ -64,7 +64,7 @@ const ListingUrl = styled.div`
   padding: 15px;
   border-bottom: 1px dashed #555;
   &:hover {
-    background: yellow;
+    background: #fce8e6;
   }
 `;
 
@@ -83,7 +83,7 @@ function Home() {
           <Input value="Email (private and used to notify you of feedback)" />
           <SubmitButton>Submit</SubmitButton>
         </SignupForm>
-        <SubTitle>Listings</SubTitle>
+        <SubTitle>Projects</SubTitle>
         <Listing>
           <ListingUrl>jsonresume.org</ListingUrl>
           <ListingBody>
