@@ -75,7 +75,7 @@ const ListingBody = styled.div`
 function Home() {
   return (
     <PageContainer>
-      <TopBar>What Would You Do With — Get quick feedback and ideas for your project!</TopBar>
+      <TopBar>What Should We Do With — Get quick feedback and ideas for your project!</TopBar>
       <PageContent>
         <SignupForm>
           <Input value="URL of your project" />

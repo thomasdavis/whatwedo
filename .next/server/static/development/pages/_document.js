@@ -1206,7 +1206,7 @@ class MyDocument extends next_document__WEBPACK_IMPORTED_MODULE_3___default.a {
         lineNumber: 26
       },
       __self: this
-    }, "What Would You Do With"), __jsx("link", {
+    }, "What Should We Do With"), __jsx("link", {
       rel: "stylesheet",
       href: "https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css",
       integrity: "sha256-l85OmPOjvil/SOvVt3HnSSjzF1TUMyT9eV0c2BzEGzU=",

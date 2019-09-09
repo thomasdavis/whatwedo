@@ -9828,7 +9828,7 @@ function Home() {
       lineNumber: 78
     },
     __self: this
-  }, "What Would You Do With \u2014 Get quick feedback and ideas for your project!"), __jsx(PageContent, {
+  }, "What Should We Do With \u2014 Get quick feedback and ideas for your project!"), __jsx(PageContent, {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 79
